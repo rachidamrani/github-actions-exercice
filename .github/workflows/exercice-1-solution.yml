@@ -1,4 +1,4 @@
-name: Exercice
+name: Exercice 1 - Solution
 on: push
 jobs:
   lint:
